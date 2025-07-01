@@ -1,5 +1,6 @@
 # MTC-direct-fire-calc
 direct fire arty calc for multi tank crew combat on Roblox 
+note that this caulculator DOES NOT acount for height difrence and assumes that both you and the target are both level
 
 You can do what ever you want with the code or what ever just make sure to credit me :)
 
